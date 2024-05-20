@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cff67f8-503b-48fa-8fc9-5916c464e85f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/banco/BancoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/banco/CadastroBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/conta/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/conta/TesteConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/pessoa/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/pessoa/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/pessoa/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poo/pessoa/testePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/colecoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/condicoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/estruturaDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/forclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/listagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/whileclass.java" afterDir="false" />
-    </list>
+    <list default="true" id="bc018ee7-ae77-411d-b9fc-9e1bc3154d9f" name="Changes" comment="Fundamentos Java e spring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Richard &lt;106260967+richardsantos2k@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -69,6 +50,49 @@
       <option name="presentableId" value="Default" />
       <updated>1715348786354</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fundamentos Java e spring">
+      <created>1716232680979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716232680979</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fundamentos Java e spring">
+      <created>1716232700152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716232700152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fundamentos Java e spring">
+      <created>1716232704523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716232704523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fundamentos Java e spring">
+      <created>1716232780306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716232780306</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fundamentos Java e spring">
+      <created>1716232797479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716232797479</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fundamentos Java e spring">
+      <created>1716232818517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716232818517</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +105,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fundamentos Java e Spring" />
+    <MESSAGE value="Fundamentos Java e spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fundamentos Java e spring" />
   </component>
 </project>
